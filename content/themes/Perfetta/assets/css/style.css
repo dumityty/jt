@@ -1,0 +1,21 @@
+body > header h2.blog-desc {
+	padding-left: 15px;
+}
+
+body > header ul {
+	width: 560px;
+	position: relative;
+	margin: 0 auto;
+	margin-top: 30px;
+	overflow: hidden;
+}
+
+body > header ul li.first {
+	list-style: none;	
+}
+
+body > header ul li {
+	float:left;
+	color: #fff;
+	margin-right: 30px;
+}	
