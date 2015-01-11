@@ -3,7 +3,7 @@ body > header h2.blog-desc {
 }
 
 body > header ul {
-	width: 560px;
+	width: 620px;
 	position: relative;
 	margin: 0 auto;
 	margin-top: 30px;
@@ -16,6 +16,17 @@ body > header ul li.first {
 
 body > header ul li {
 	float:left;
-	color: #fff;
+	color: #da6426;
 	margin-right: 30px;
+	font-weight: bold;
 }	
+
+#logo a { 
+	color: #da6426; 
+}
+
+body.default-bg { 
+	background-image: url('../images/bunting.jpg'); 
+	/*background-size: contain;*/
+}
+
