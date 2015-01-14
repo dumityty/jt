@@ -16,10 +16,12 @@ body > header ul li.first {
 }
 
 body > header ul li {
-	float:left;
+	/*float:left;*/
+	display: inline;
 	color: #da6426;
 	margin-right: 30px;
 	font-weight: bold;
+	list-style: none;
 }	
 
 #logo a { 
