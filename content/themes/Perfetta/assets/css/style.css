@@ -34,3 +34,6 @@ body.default-bg {
 	/*background-size: contain;*/
 }
 
+body > footer .footer-email a:hover {
+	color: white;
+}
