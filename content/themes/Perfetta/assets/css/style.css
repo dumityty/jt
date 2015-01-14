@@ -30,7 +30,7 @@ body > header ul li {
 
 body.default-bg { 
 	background-image: url('../images/bunting.jpg');
-	background-size: cover; 
+	/*background-size: cover; */
 	/*background-size: contain;*/
 }
 
